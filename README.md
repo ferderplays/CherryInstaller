@@ -1,0 +1,2 @@
+# CherryInstaller
+Cherry Client Installer
